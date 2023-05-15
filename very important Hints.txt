@@ -1,4 +1,4 @@
-
+make package name >>com.example.demo3 
 put all images in your package int the IDE
 
 put sound and font fill in partition D
